@@ -1,0 +1,8 @@
+#shoppingbag:active{
+    left: 100;
+    cursor: pointer;
+}
+#cartdiv{
+   display: block;
+    
+}
